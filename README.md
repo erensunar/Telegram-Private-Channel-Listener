@@ -23,7 +23,7 @@ Create and activate a virtual environment for the project:
 Install the packages listed in requirements.txt:
 
 ```bash
-    pip install -r requirements.
+    pip install -r requirements.txt
 ```
 
 ## How to obtain Telegram API ID and API Hash
@@ -67,4 +67,4 @@ And now the channel is listening!
 
 
 ## License
-This project is licensed under [LICENSE]. See the LICENSE file for more information.
+This project is licensed under [MIT LICENSE]. See the LICENSE file for more information.
