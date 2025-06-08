@@ -2,6 +2,8 @@
 
 With this bot, you can instantly access all messages sent to hidden channels in telegram. You can process the data you want and forward to other channels.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/erensunar)
+
 
 ## Installation
 Clone the project files and follow these steps:
@@ -62,6 +64,15 @@ Start the program.
 The program will ask for your phone number again for connection.
 Enter your phone number.
 Enter the login code from the Telegram application.
+
+
+## ☕ Support the Developer
+
+If this project helped you or saved you some time, consider buying me a coffee.  
+It helps me stay motivated and keep building useful open-source tools.  
+Thank you! 🙌
+
+👉 [Buy Me a Coffee](https://coff.ee/erensunar)
 
 And now the channel is listening!
 
